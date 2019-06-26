@@ -1,5 +1,5 @@
 # Beauchef Robotics Challenge 2019 
-En este repositorio se recopilará información relacionada con la competencia
+En este repositorio se recopilará información relacionada con la versión nº2 del año 2019 de BRC
 
 ## Bitácora
 
@@ -11,8 +11,8 @@ Estas becas consisten en entregar los componentes necesarios para el armado del 
 
 La descripción detallada de la beca, las condiciones de la misma y el formulario de inscripción pueden ser vistos en los siguientes enlaces:
 
-* Bases beca: (documentos/base_becas.pdf)
-* Formulario de inscripción: (https://docs.google.com/forms/d/e/1FAIpQLSet54EpMKgc_HiUpSDDLZObdpeE_Rkr49QT4JmUmT6mjUGHMA/viewform?usp=sf_link)
+* Bases beca: [becas](documentos/base_becas.pdf)
+* Formulario de inscripción: [formulario](https://docs.google.com/forms/d/e/1FAIpQLSet54EpMKgc_HiUpSDDLZObdpeE_Rkr49QT4JmUmT6mjUGHMA/viewform?usp=sf_link)
 
 **Fechas Importantes**
 
