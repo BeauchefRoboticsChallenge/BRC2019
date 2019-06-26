@@ -1,9 +1,33 @@
 # Beauchef Robotics Challenge 2019 
 En este repositorio se recopilará información relacionada con la versión nº2 del año 2019 de BRC
 
-## Bitácora
+## Fechas
+Las fechas presentadas acá son *tentativas*:
+
+* Apertura Inscripción: Miércoles 10 de Julio.
+* Cierre Inscripción: Sábado 07 de Septiembre.
+* Talleres: desde Miércoles 31 de Julio hasta Sábado 7 de Septiembre.
+* Competencia: Jueves 26 y Viernes 27 de Septiembre.
+
+## Talleres
+Los talleres aun están en proceso de re-diseño. 
+Las clases del año pasado y en proceso de arreglo se pueden [ver acá](https://github.com/BeauchefRoboticsChallenge/Docencia).
+
+Las fechas *tentativas* de los talleres son:
+
+* Diseño CAD: Miércoles 31 de Julio.
+* Impresión 3D: Miércoles 5 de Agosto.
+* Arduino y Electrónica Básica: Miércoles 14 de Agosto.
+* Prototipado Electrónico: Miércoles 21 de Agosto.
+* Arduino y Control de Sistemas: Miércoles 28 de Agosto.
+* Hackatón: Sábado 7 de Septiembre.
+
+## Inscripción
+La inscripción aun no se encuentra abierta.
+Cuando se abra, publicaremos el formulario de inscripción.
 
 ## Reglas
+
 
 ## Becas
 La organización BRC 2019 entregará 8 becas para equipos de 3 estudiantes de la pregrado de la Universidad de Chile.
@@ -17,7 +41,7 @@ La descripción detallada de la beca, las condiciones de la misma y el formulari
 **Fechas Importantes**
 
 * Fin de Inscripción: Viernes 5 de Julio.
-* Notificación de ganadores: Miercoles 10 de Julio.
+* Notificación de Ganadores: Miercoles 10 de Julio.
 
 
 ## ETC.
