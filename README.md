@@ -27,7 +27,10 @@ La inscripción aun no se encuentra abierta.
 Cuando se abra, publicaremos el formulario de inscripción.
 
 ## Reglas
+Las reglas de la competencia aún están siendo definidas.
+Para ver una versión de las reglas a la fecha: hacer [click acá](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FBeauchefRoboticsChallenge%2FRuleBook&target=rules.tex&command=pdflatex&trackId=1535068395693)
 
+**Las reglas pueden cambiar hasta que publiquemos el pdf oficial con ellas**
 
 ## Becas
 La organización BRC 2019 entregará 8 becas para equipos de 3 estudiantes de la pregrado de la Universidad de Chile.
