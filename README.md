@@ -11,7 +11,7 @@ Estas becas consisten en entregar los componentes necesarios para el armado del 
 
 La descripción detallada de la beca, las condiciones de la misma y el formulario de inscripción pueden ser vistos en los siguientes enlaces:
 
-* Bases beca: [becas](documentos/base_becas.pdf)
+* Bases beca: [becas](documentos/bases_becas.pdf)
 * Formulario de inscripción: [formulario](https://docs.google.com/forms/d/e/1FAIpQLSet54EpMKgc_HiUpSDDLZObdpeE_Rkr49QT4JmUmT6mjUGHMA/viewform?usp=sf_link)
 
 **Fechas Importantes**
