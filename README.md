@@ -13,14 +13,7 @@ Las fechas presentadas acá son *tentativas*:
 Los talleres aun están en proceso de re-diseño. 
 Las clases del año pasado y en proceso de arreglo se pueden [ver acá](https://github.com/BeauchefRoboticsChallenge/Docencia).
 
-Las fechas *tentativas* de los talleres son:
-
-* Diseño CAD: Miércoles 31 de Julio.
-* Impresión 3D: Miércoles 5 de Agosto.
-* Arduino y Electrónica Básica: Miércoles 14 de Agosto.
-* Prototipado Electrónico: Miércoles 21 de Agosto.
-* Arduino y Control de Sistemas: Miércoles 28 de Agosto.
-* Hackatón: Sábado 7 de Septiembre.
+Para ver las fechas de los talleres, instrucciones específicas para los participantes y más, pueden ver el documento de los talleres en el siguiente [documento](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FBeauchefRoboticsChallenge%2FRuleBook&target=workshops.tex&command=pdflatex&trackId=1535068395693)
 
 ## Inscripción
 La inscripción aun no se encuentra abierta.
