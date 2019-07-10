@@ -12,7 +12,7 @@ En este repositorio se recopilará información relacionada con la versión nº2
 Los talleres aun están en proceso de re-diseño. 
 Las clases del año pasado y en proceso de arreglo se pueden [ver acá](https://github.com/BeauchefRoboticsChallenge/Docencia).
 
-Para ver las fechas de los talleres, instrucciones específicas para los participantes y más, pueden ver el documento de los talleres en el siguiente [documento](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FBeauchefRoboticsChallenge%2FRuleBook&target=workshops.tex&command=pdflatex&trackId=1535068395693)
+Para ver las fechas de los talleres, instrucciones específicas para los participantes y más, pueden ver el documento de los talleres en el siguiente [documento](documentos/talleres_instrucciones.pdf)
 
 ## Inscripción
 Para inscribirse en la competencia, deben completar el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSeL-dpkSgLHZOs6XP_O-2ssXzRk-vHiRQkl9qAFMNvqLGQkHw/viewform?usp=sf_link)
