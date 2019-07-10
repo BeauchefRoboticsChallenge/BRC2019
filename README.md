@@ -37,7 +37,23 @@ La descripción detallada de la beca, las condiciones de la misma y el formulari
 **Fechas Importantes**
 
 * Fin de Inscripción: Viernes 5 de Julio.
-* Notificación de Ganadores: Miercoles 10 de Julio.
+* Notificación de Ganadores: Miércoles 10 de Julio.
 
+## Premios
+La BRC tiene un convenio con la [Competencia de Robótica de la UTFSM](http://www.competenciarobotica.cl).
+Los 3 mejores equipos de BRC pueden participar directamente en la competencia [Robotracer](http://www.competenciarobotica.cl/bases/).
+Sin embargo, la competencia Robotracer de la UTFSM está pensada para equipos de 2 personas.
+Nuestro convenio permite participar a 3 personas en la UTFSM, pero ellos estarán regidos a la asignación de premios de 2 personas de la UTFSM (i.e., si algún premio consiste en un Arduino por persona, el grupo compuesto de 3 personas solo recibirá 2 Arduinos).
+
+Además, estamos gestionando con nuestros auspiciadores más premios para todos!
+
+A modo de resumen, los premios son:
+
+* 1er Lugar:
+  * Cupo y beca para participar en la Competencia de Robótica de la UTFSM (con restricciones de premios para 2 personas en esa competencia)
+* 2do Lugar:
+  * Cupo y beca para participar en la Competencia de Robótica de la UTFSM (con restricciones de premios para 2 personas en esa competencia)
+* 3er Lugar:
+  * Cupo y beca para participar en la Competencia de Robótica de la UTFSM (con restricciones de premios para 2 personas en esa competencia)
 
 ## ETC.
