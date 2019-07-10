@@ -1,8 +1,7 @@
 # Beauchef Robotics Challenge 2019 
 En este repositorio se recopilará información relacionada con la versión nº2 del año 2019 de BRC
 
-## Fechas
-Las fechas presentadas acá son *tentativas*:
+## Fechas Importantes
 
 * Apertura Inscripción: Miércoles 10 de Julio.
 * Cierre Inscripción: Sábado 07 de Septiembre.
@@ -16,14 +15,12 @@ Las clases del año pasado y en proceso de arreglo se pueden [ver acá](https://
 Para ver las fechas de los talleres, instrucciones específicas para los participantes y más, pueden ver el documento de los talleres en el siguiente [documento](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FBeauchefRoboticsChallenge%2FRuleBook&target=workshops.tex&command=pdflatex&trackId=1535068395693)
 
 ## Inscripción
-La inscripción aun no se encuentra abierta.
-Cuando se abra, publicaremos el formulario de inscripción.
+Para inscribirse en la competencia, deben completar el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSeL-dpkSgLHZOs6XP_O-2ssXzRk-vHiRQkl9qAFMNvqLGQkHw/viewform?usp=sf_link)
 
 ## Reglas
-Las reglas de la competencia aún están siendo definidas.
-Para ver una versión de las reglas a la fecha: hacer [click acá](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FBeauchefRoboticsChallenge%2FRuleBook&target=rules.tex&command=pdflatex&trackId=1535068395693)
 
-**Las reglas pueden cambiar hasta que publiquemos el pdf oficial con ellas**
+Las reglas de la competencia se encuentran en el siguiente [documento](documentos/bases_competencia.pdf).
+
 
 ## Becas
 La organización BRC 2019 entregará 8 becas para equipos de 3 estudiantes de la pregrado de la Universidad de Chile.
