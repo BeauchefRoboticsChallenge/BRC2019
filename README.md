@@ -31,10 +31,14 @@ La descripción detallada de la beca, las condiciones de la misma y el formulari
 * Bases beca: [becas](documentos/bases_becas.pdf)
 * Formulario de inscripción: [formulario](https://docs.google.com/forms/d/e/1FAIpQLSet54EpMKgc_HiUpSDDLZObdpeE_Rkr49QT4JmUmT6mjUGHMA/viewform?usp=sf_link)
 
+
 **Fechas Importantes**
 
 * Fin de Inscripción: Viernes 5 de Julio.
 * Notificación de Ganadores: Miércoles 10 de Julio.
+
+## Componentes
+Los componentes del kit que sera entregado a los becados se encuentra en el siguiente documento [documento](documentos/componentes_becas.md).
 
 ## Premios
 La BRC tiene un convenio con la [Competencia de Robótica de la UTFSM](http://www.competenciarobotica.cl).
