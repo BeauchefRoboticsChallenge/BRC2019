@@ -4,7 +4,7 @@ En este repositorio se recopilará información relacionada con la versión nº2
 ## Fechas Importantes
 
 * Apertura Inscripción: Miércoles 10 de Julio.
-* Cierre Inscripción: Sábado 07 de Septiembre.
+* Cierre Inscripción: Domingo 29 de Septiembre.
 * Talleres: desde Miércoles 31 de Julio hasta Sábado 7 de Septiembre.
 * Competencia: Jueves 10 y Viernes 11 de Octubre.
 
