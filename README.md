@@ -38,7 +38,11 @@ La descripción detallada de la beca, las condiciones de la misma y el formulari
 * Notificación de Ganadores: Miércoles 10 de Julio.
 
 ## Componentes
-Los componentes del kit que sera entregado a los becados se encuentra en el siguiente documento [documento](documentos/componentes_becas.md).
+Los componentes del kit que sera entregado a los becados se encuentra en el siguiente [documento](documentos/componentes_becas.md).
+
+## Librerías
+Las librerías de los sensores QTR y del puente H 6612FNG las pueden encontrar en el siguiente [link](documentos/librerias.md)
+Las librerías que les pueden servir para eagle las pueden encontrar en el siguiente [link](documentos/eagle_libs.md)
 
 ## Premios
 La BRC tiene un convenio con la [Competencia de Robótica de la UTFSM](http://www.competenciarobotica.cl).
