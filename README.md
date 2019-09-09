@@ -54,10 +54,10 @@ Los 3 mejores equipos de BRC pueden participar directamente en la competencia [R
 Sin embargo, tenemos un par de condiciones con respecto a este premio:
 
 1. Debido a nuestros auspiciadores, al menos un equipo becado para Valparaíso será de la Universidad de Chile.
-  * Si uno de los tres primeros equipos es de la Universidad de Chile, todo se mantiene normal.
-  * Sino: 
-    * Los tres primeros equipos recibirán los premios acorde a su participación.
-    * El tercer equipo cederá su cupo en Valparaíso para el equipo de la Universidad de Chile que se encuentre mejor evaluado.
+   * Si uno de los tres primeros equipos es de la Universidad de Chile, todo se mantiene normal.
+   * Sino: 
+     * Los tres primeros equipos recibirán los premios acorde a su participación.
+     * El tercer equipo cederá su cupo en Valparaíso para el equipo de la Universidad de Chile que se encuentre mejor evaluado.
 2. La competencia Robotracer de la UTFSM está pensada para equipos de 2 personas. Nuestro convenio permite participar a 3 personas en la UTFSM, pero ellos estarán regidos a la asignación de premios de 2 personas de la UTFSM (i.e., si algún premio consiste en un Arduino por persona, el grupo compuesto de 3 personas solo recibirá 2 Arduinos).
 
 
