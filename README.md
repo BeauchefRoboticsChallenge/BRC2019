@@ -47,20 +47,18 @@ Las librerías de los sensores QTR y del puente H 6612FNG las pueden encontrar e
 Las librerías que les pueden servir para encontrar componentes de Eagle las pueden encontrar en el siguiente [link](documentos/eagle_libs.md).
 
 ## Premios
-La BRC tiene un convenio con la [Competencia de Robótica de la UTFSM](http://www.competenciarobotica.cl).
+Estamos gestionando premios con nuestros auspiciadores, tanto para los tres primeros lugares como para todos los competidores!
+
+Además, la BRC tiene un convenio con la [Competencia de Robótica de la UTFSM](http://www.competenciarobotica.cl).
 Los 3 mejores equipos de BRC pueden participar directamente en la competencia [Robotracer](http://www.competenciarobotica.cl/bases/).
-Sin embargo, la competencia Robotracer de la UTFSM está pensada para equipos de 2 personas.
-Nuestro convenio permite participar a 3 personas en la UTFSM, pero ellos estarán regidos a la asignación de premios de 2 personas de la UTFSM (i.e., si algún premio consiste en un Arduino por persona, el grupo compuesto de 3 personas solo recibirá 2 Arduinos).
+Sin embargo, tenemos un par de condiciones con respecto a este premio:
 
-Además, estamos gestionando con nuestros auspiciadores más premios para todos!
+1. Debido a nuestros auspiciadores, al menos un equipo becado para Valparaíso será de la Universidad de Chile.
+  * Si uno de los tres primeros equipos es de la Universidad de Chile, todo se mantiene normal.
+  * Sino: 
+    * Los tres primeros equipos recibirán los premios acorde a su participación.
+    * El tercer equipo cederá su cupo en Valparaíso para el equipo de la Universidad de Chile que se encuentre mejor evaluado.
+2. La competencia Robotracer de la UTFSM está pensada para equipos de 2 personas. Nuestro convenio permite participar a 3 personas en la UTFSM, pero ellos estarán regidos a la asignación de premios de 2 personas de la UTFSM (i.e., si algún premio consiste en un Arduino por persona, el grupo compuesto de 3 personas solo recibirá 2 Arduinos).
 
-A modo de resumen, los premios son:
-
-* 1er Lugar:
-  * Cupo y beca para participar en la Competencia de Robótica de la UTFSM (con restricciones de premios para 2 personas en esa competencia)
-* 2do Lugar:
-  * Cupo y beca para participar en la Competencia de Robótica de la UTFSM (con restricciones de premios para 2 personas en esa competencia)
-* 3er Lugar:
-  * Cupo y beca para participar en la Competencia de Robótica de la UTFSM (con restricciones de premios para 2 personas en esa competencia)
 
 ## ETC.
